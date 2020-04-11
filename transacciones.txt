@@ -1,0 +1,6 @@
+﻿
+
+Fecha:Saturday 11/04/2020 12:30:20PM,Moneda:BTC,Transacción:Recibido,Código de usuario:1234,Cantidad :25.0,Total de la operación en $:28620.400000002, Total acumulado en cuenta en $:2760.45
+Fecha:Saturday 11/04/2020 12:46:56PM,Moneda:BCC,Transacción:Enviado,Código de usuario:2019,Cantidad :2.0,Total de la operación en $:28622.44, Total acumulado en cuenta en $:9280.00999998
+Fecha:Saturday 11/04/2020 01:18:38PM,Moneda:ETH,Transacción:Recibido,Código de usuario:3323,Cantidad :45.0,Total de la operación en $:3767.5, Total acumulado en cuenta en $:5875.366
+Fecha:Saturday 11/04/2020 01:30:05PM,Moneda:LTC,Transacción:Enviado,Código de usuario:4551,Cantidad :5.0,Total de la operación en $:415.5, Total acumulado en cuenta en $:93848.95000003
